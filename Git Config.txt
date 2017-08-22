@@ -1,0 +1,2 @@
+Getting Colored Output
+To get colored diff output, run git config --global color.ui auto
